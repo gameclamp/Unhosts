@@ -103,3 +103,4 @@
 ||images-cn.ssl-images-amazon.com
 ||x-art.com
 ||nicovideo.jp
+||instagram.com
