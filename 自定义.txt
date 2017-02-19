@@ -104,3 +104,4 @@
 ||x-art.com
 ||nicovideo.jp
 ||instagram.com
+||cdninstagram.com
