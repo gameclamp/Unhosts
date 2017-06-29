@@ -3,3 +3,4 @@
 @@||fas.li^$document
 @@blob:https://115.com/*$popup
 @@||ally.sh^$document
+@@||shink.in^$document
