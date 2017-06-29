@@ -1,2 +1,3 @@
 [Adblock Plus 2.0]
 @@||u2s.io^$document
+@@||fas.li^$document
