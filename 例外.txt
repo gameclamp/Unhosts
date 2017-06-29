@@ -2,3 +2,4 @@
 @@||u2s.io^$document
 @@||fas.li^$document
 @@blob:https://115.com/*$popup
+@@||ally.sh^$document
