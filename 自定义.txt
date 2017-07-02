@@ -105,3 +105,4 @@
 ||instagram.com
 ||cdninstagram.com
 ||dmm.co.jp
+||payserve.com
