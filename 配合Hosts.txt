@@ -9,7 +9,6 @@
 ||getchu.com
 ||www.croco.me
 ||www.mediafire.com
-||sukebei.nyaa.se
 ||googlevideo.com
 ||exhentai.org
 ||www.22world.us
@@ -20,3 +19,4 @@
 ||dmm.co.jp
 ||giga-web.jp
 ||tumblr.com
+||nhentai.net
