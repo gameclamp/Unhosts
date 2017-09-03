@@ -1,6 +1,12 @@
 [Adblock Plus 2.0]
-@@||u2s.io^$document
-@@||fas.li^$document
 @@blob:https://115.com/*$popup
 @@||ally.sh^$document
+@@||clik.pw^$document
+@@||cosplayjav.pl^$document
+@@||cutwin.com^$document
+@@||debrideco.com^$document
+@@||fas.li^$document
+@@||l2s.io^$document
 @@||shink.in^$document
+@@||u2s.io^$document
+@@||urle.co^$document
