@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+||archive.org
 ||bc.vc
 ||blogspot.com
 ||blogspot.jp
