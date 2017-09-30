@@ -83,6 +83,7 @@
 ||skyssh.com
 ||solvemedia.com
 ||storeanyc.link
+||t.cn
 ||thepiratebay.org
 ||tokushare.com.br
 ||torrentz.eu
