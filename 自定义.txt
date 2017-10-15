@@ -45,6 +45,7 @@
 ||ggpht.com
 ||giga-web.jp
 ||google.co.jp
+||google.co.kr
 ||google.com
 ||googleapis.com
 ||googlegroups.com
@@ -52,6 +53,7 @@
 ||googlevideo.com
 ||gstatic.com
 ||hentai-foundry.com
+||hitomi.la
 ||hkgolden.com
 ||i2.pixiv.net
 ||images-cn.ssl-images-amazon.com
@@ -102,6 +104,7 @@
 ||www.croco.me
 ||www.eyny.com
 ||www.googleapis.com
+||www.imagefap.com
 ||www.kyofun.com
 ||www.mediafire.com
 ||www.sexinsex.net
