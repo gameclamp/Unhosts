@@ -22,6 +22,7 @@
 ||blogspot.com
 ||blogspot.hk
 ||blogspot.jp
+||blogspot.kr
 ||cdninstagram.com
 ||cloud.cashtrafic.info
 ||cos-moe.com
@@ -44,6 +45,7 @@
 ||getchu.com
 ||ggpht.com
 ||giga-web.jp
+||google.it
 ||google.co.jp
 ||google.co.kr
 ||google.com
