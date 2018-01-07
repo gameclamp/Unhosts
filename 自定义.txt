@@ -41,10 +41,12 @@
 ||faststone.org
 ||fbcdn.net
 ||fc2.com
+||free.rx52.cc
 ||gamer.com.tw
 ||getchu.com
 ||ggpht.com
 ||giga-web.jp
+||gist.github.com
 ||google.it
 ||google.co.jp
 ||google.co.kr
@@ -88,6 +90,7 @@
 ||skyssh.com
 ||solvemedia.com
 ||storeanyc.link
+||sukebei.nyaa.si
 ||t.co
 ||thepiratebay.org
 ||tokushare.com.br
